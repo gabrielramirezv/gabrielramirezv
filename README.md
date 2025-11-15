@@ -40,5 +40,5 @@ I'm passionate about data science, bioinformatics, and machine learning. I enjoy
 
 ---
 
-✨ *Thanks for visiting my profile! Always open to collaborations.*
+*Thanks for visiting my profile! Always open to collaborations.*
 
