@@ -1,6 +1,6 @@
 # Hi! I'm Gabriel 👋
 
-I'm passionate about data science, bioinformatics, and machine learning. I enjoy building tools, learning new technologies, and working on projects that combine biology, programming, and data analysis.
+I'm passionate about data science, bioinformatics, and machine learning. I enjoy working on projects that combine biology, programming, and data analysis.
 
 ## 🚀 About Me
 
