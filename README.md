@@ -14,11 +14,8 @@ I'm passionate about data science, bioinformatics, and machine learning. I enjoy
 
 ## 🔥 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielramirezv\&layout=compact\&theme=tokyonight)](https://github.com/gabrielramirezv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielramirezv\&layout=compact\&theme=tokyonight)](https://github.com/gabrielramirezv/github-readme-stats)  
 
-## 🔥 Contribution Streak
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabrielramirezv&theme=tokyonight)  
 
 ## 🛠️ Tools & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
