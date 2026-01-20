@@ -18,7 +18,7 @@ I'm passionate about data science, bioinformatics, and machine learning. I enjoy
 
 ## 🔥 Contribution Streak
 
-[![Streak](https://streak-stats.demolab.com/?user=gabrielramirezv\&theme=tokyonight)](https://github.com/gabrielramirezv)  
+[![Streak](https://streak-stats.demolab.com/?user=gabrielramirezv&theme=tokyonight)](https://github.com/gabrielramirezv)  
 
 ## 🛠️ Tools & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
