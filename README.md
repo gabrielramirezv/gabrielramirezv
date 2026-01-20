@@ -10,11 +10,11 @@ I'm passionate about data science, bioinformatics, and machine learning. I enjoy
 
 ## 📊 GitHub Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=gabrielramirezv\&show_icons=true\&theme=tokyonight)](https://github.com/gabrielramirezv)
+[![Stats](https://github-readme-stats.vercel.app/api?username=gabrielramirezv\&show_icons=true)](https://github.com/gabrielramirezv)
 
 ## 🔥 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielramirezv\&layout=compact\&theme=tokyonight)](https://github.com/gabrielramirezv/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielramirezv\&layout=compact)](https://github.com/gabrielramirezv/github-readme-stats)  
 
 
 ## 🛠️ Tools & Technologies
