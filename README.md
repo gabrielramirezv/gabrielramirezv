@@ -33,7 +33,7 @@ I'm passionate about data science, bioinformatics, and machine learning. I enjoy
 ## 📫 Contact
 
 * ✉️ Email: [gabriel.ramirez.vilchis@gmail.com](mailto:gabriel.ramirez.vilchis@gmail.com)
-* 🌐 LinkedIn: [https://www.linkedin.com/in/gabrielramirezv](https://www.linkedin.com/in/gabrielramirezv)
+* 🌐 LinkedIn: [https://www.linkedin.com/in/gabrielramirezv](https://www.linkedin.com/in/gabrielramirezvilchis)
 
 ---
 
