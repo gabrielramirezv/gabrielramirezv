@@ -4,8 +4,8 @@ I'm passionate about data science, bioinformatics, and machine learning. I enjoy
 
 ## 🚀 About Me
 
-* 🔬 Interests: bioinformatics, machine learning, deep learning, paleogenomics
-* 🧠 Currently learning: PyTorch, classic ML models, multi‑omics analysis
+* 🔬 Interests: bioinformatics, machine learning, deep learning, paleogenomics, immunology, neurosciences
+* 🧠 Currently learning: PyTorch, classic ML models, single-cell RNAseq analysis
 * 👨‍💻 Always curious about new tools and technologies
 
 ## 📊 GitHub Stats
