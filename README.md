@@ -9,12 +9,6 @@ I'm passionate about data science, bioinformatics, and machine learning. I enjoy
 * 👨‍💻 Always curious about new tools and technologies
 
 
-## 📊 GitHub Stats
-
-![GitHub followers](https://img.shields.io/github/followers/gabrielramirezv?style=for-the-badge)  
-![GitHub stars](https://img.shields.io/github/stars/gabrielramirezv?style=for-the-badge)   
-
-
 ## 🔥 Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielramirezv\&layout=compact\&theme=tokyonight)](https://github.com/gabrielramirezv/github-readme-stats)  
