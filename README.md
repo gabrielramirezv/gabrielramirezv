@@ -8,9 +8,11 @@ I'm passionate about data science, bioinformatics, and machine learning. I enjoy
 * 🧠 Currently learning: PyTorch, classic ML models, single-cell RNAseq analysis
 * 👨‍💻 Always curious about new tools and technologies
 
+
 ## 📊 GitHub Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=gabrielramirezv&show_icons=true&theme=tokyonight)](https://github.com/gabrielramirezv)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielramirezv&show_icons=true&theme=tokyonight)  
+
 
 ## 🔥 Most Used Languages
 
