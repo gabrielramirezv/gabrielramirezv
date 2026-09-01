@@ -2,14 +2,14 @@
 
 I'm passionate about data science, bioinformatics, and machine learning. I enjoy working on projects that combine biology, programming, and data analysis.
 
-## 🚀 About Me
+## About Me
 
 * 🔬 Interests: bioinformatics, machine learning, deep learning, paleogenomics, immunology, neurosciences
 * 🧠 Currently learning: PyTorch, classic ML models, single-cell RNAseq analysis
 * 👨‍💻 Always curious about new tools and technologies
 
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch\&logoColor=white)
@@ -22,7 +22,7 @@ I'm passionate about data science, bioinformatics, and machine learning. I enjoy
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter\&logoColor=white)
 
 
-## 📫 Contact
+## Contact
 
 * ✉️ Email: [gabriel.ramirez.vilchis@gmail.com](mailto:gabriel.ramirez.vilchis@gmail.com)
 * 🌐 LinkedIn: [https://www.linkedin.com/in/gabrielramirezvilchis](https://www.linkedin.com/in/gabrielramirezvilchis)
