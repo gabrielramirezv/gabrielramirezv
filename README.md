@@ -1,12 +1,22 @@
 # Hi! I'm Gabriel
 
-I'm passionate about data science, bioinformatics, and machine learning. I enjoy working on projects that combine biology, programming, and data analysis.
+I'm passionate about virology, neuroscience, and population genomics. I enjoy working on projects that combine biology, programming, and data analysis.
 
 ## About Me
 
 * Interests: bioinformatics, machine learning, deep learning, paleogenomics, immunology, neurosciences
 * Currently learning: PyTorch, classic ML models, single-cell RNAseq analysis
 * Always curious about new tools and technologies
+
+
+## Programming Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="38" height="38" alt="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="38" height="38" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" height="38" alt="SQL"/>
+</p>
 
 
 ## Tools & Technologies
